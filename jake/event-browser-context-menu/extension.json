@@ -1,0 +1,9 @@
+{
+  "extension_api": 1,
+  "name": "Event Browser Right Click Context Menu",
+  "version": "1.0",
+  "minimum_renderdoc": "1.2",
+  "description": "This is a UI extension which adds commands to the right click context menu of the event browser",
+  "author": "Jake Turner <jake@evansturner.co.uk>",
+  "url": "https://github.com/Zorro666/renderdoc-contrib"
+}
